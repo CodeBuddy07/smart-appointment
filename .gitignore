@@ -19,6 +19,20 @@
 
 # production
 /build
+node_modules/
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.next/
+out/
+dist/
+*.log
+.DS_Store
+coverage/
+.yarn/
+*.tsbuildinfo
 
 # misc
 .DS_Store
